@@ -1,4 +1,7 @@
-// Amethyst Imperial Grand by MBMS
+// Amethyst Imperial Grand 1.1 by MBMS
+
+<control>
+default_path=..\..\Samples\
 
 //KB CONFIG - START
 #include "..\1. Amethyst Imperial Grand - Concert Presets\Amethyst Imperial Grand.sfz"

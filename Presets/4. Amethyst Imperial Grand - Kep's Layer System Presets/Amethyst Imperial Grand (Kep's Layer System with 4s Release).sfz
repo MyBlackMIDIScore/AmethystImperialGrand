@@ -1,8 +1,11 @@
-// Amethyst Imperial Grand by MBMS
+// Amethyst Imperial Grand 1.1 by MBMS
 // SFZ Preset made by Keppy for the Steinway B-211 soundfont
 // You can find his project here: https://github.com/KaleidonKep99/Steinway-B-211
 
 // PSTR - BEGINNING OF THE PIANO SECTION
+
+<control>
+default_path=..\..\Samples\
 
 <master>
 xfin_locc14=0 

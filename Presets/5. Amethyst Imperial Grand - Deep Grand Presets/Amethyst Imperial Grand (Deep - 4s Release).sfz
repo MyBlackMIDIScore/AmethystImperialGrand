@@ -1,4 +1,7 @@
-// Amethyst Imperial Grand by MBMS
+// Amethyst Imperial Grand 1.1 by MBMS
+
+<control>
+default_path=..\..\Samples\
 
 <group>
 lokey=0 hikey=127
