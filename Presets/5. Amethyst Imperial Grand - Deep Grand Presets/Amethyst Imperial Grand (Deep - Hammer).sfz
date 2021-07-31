@@ -1,0 +1,403 @@
+// Amethyst Imperial Grand by MBMS
+
+<group>
+lokey=0 hikey=127
+lovel=114 hivel=127
+loop_mode=no_loop
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=700
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=108 hivel=113
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=600
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=102 hivel=107
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=550
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=96 hivel=101
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=460
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=90 hivel=95
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=360
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=84 hivel=89
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=290
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=78 hivel=83
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=250
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=72 hivel=77
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=230
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=66 hivel=71
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=200
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=60 hivel=65
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=180
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=54 hivel=59
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=150
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=48 hivel=53
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=130
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=42 hivel=47
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=100
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=36 hivel=41
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=90
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=30 hivel=35
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=80
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=24 hivel=29
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=70
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=18 hivel=23
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=60
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=12 hivel=17
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=50
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=6 hivel=11
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=40
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+lovel=0 hivel=5
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=30
+effect1=75
+ampeg_release=1.5
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+//KB CONFIG - START
+#include "..\Extension Files\Keyboard Configuration.ext"
+//KB CONFIG - END
+
+<group>
+lokey=0 hikey=127
+loop_mode=no_loop
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=..\Samples\Hammer\HammerL.wav
+lokey=0 hikey=29
+pitch_keycenter=29
+pan=0
+ampeg_release=99.9636
+volume=-19.056
+pitch_keytrack=1
+offset=0
+end=13439
+loop_start=0
+loop_end=13438
+
+<region>
+sample=..\Samples\Hammer\HammerL.wav
+lokey=30 hikey=48
+pitch_keycenter=48
+pan=0
+ampeg_release=99.9636
+volume=-9.528
+pitch_keytrack=1
+offset=0
+end=13439
+loop_start=0
+loop_end=13438
+
+<region>
+sample=..\Samples\Hammer\HammerR.wav
+lokey=49 hikey=95
+pitch_keycenter=71
+pan=0
+ampeg_release=99.9636
+volume=-6.352
+pitch_keytrack=1
+offset=0
+end=13439
+loop_start=0
+loop_end=13438
+
+<region>
+sample=..\Samples\Hammer\HammerR.wav
+lokey=96 hikey=127
+pitch_keycenter=96
+pan=0
+ampeg_release=99.9636
+volume=-3.573
+pitch_keytrack=1
+offset=0
+end=13439
+loop_start=0
+loop_end=13438
