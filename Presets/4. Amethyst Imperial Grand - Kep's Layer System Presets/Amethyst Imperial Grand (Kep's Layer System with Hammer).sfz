@@ -1,6 +1,8 @@
-// Amethyst Imperial Grand 1.1 by MBMS
+// Amethyst Imperial Grand 1.2 by MBMS
 // SFZ Preset made by Keppy for the Steinway B-211 soundfont
 // You can find his project here: https://github.com/KaleidonKep99/Steinway-B-211
+
+// Hammer preset was made by KaleidonKep99
 
 // PSTR - BEGINNING OF THE PIANO SECTION
 
@@ -2440,71 +2442,10 @@ fil_type=lpf_2p
 cutoff=200000
 
 //SINC - BEGINNING OF INCLUDE SECTION
-
 #include "..\Extension Files\Keyboard Configuration.ext"
-
 //EINC - END OF INCLUDE SECTION
-
 // PEND - END OF THE PIANO SECTION
 
-<group>
-lokey=0 hikey=127
-loop_mode=no_loop
-ampeg_attack=0.001
-amplfo_freq=8.176
-fillfo_freq=8.176
-pitchlfo_freq=8.176
-fil_type=lpf_2p
-cutoff=19913
-
-<region>
-sample=..\Samples\Hammer\HammerL.wav
-lokey=0 hikey=29
-pitch_keycenter=29
-pan=0
-ampeg_release=99.9636
-volume=-19.056
-pitch_keytrack=1
-offset=0
-end=13439
-loop_start=0
-loop_end=13438
-
-<region>
-sample=..\Samples\Hammer\HammerL.wav
-lokey=30 hikey=48
-pitch_keycenter=48
-pan=0
-ampeg_release=99.9636
-volume=-9.528
-pitch_keytrack=1
-offset=0
-end=13439
-loop_start=0
-loop_end=13438
-
-<region>
-sample=..\Samples\Hammer\HammerR.wav
-lokey=49 hikey=95
-pitch_keycenter=71
-pan=0
-ampeg_release=99.9636
-volume=-6.352
-pitch_keytrack=1
-offset=0
-end=13439
-loop_start=0
-loop_end=13438
-
-<region>
-sample=..\Samples\Hammer\HammerR.wav
-lokey=96 hikey=127
-pitch_keycenter=96
-pan=0
-ampeg_release=99.9636
-volume=-3.573
-pitch_keytrack=1
-offset=0
-end=13439
-loop_start=0
-loop_end=13438
+//HMR CONFIG - START
+#include "..\Extension Files\Hammer Configuration.ext"
+//HMR CONFIG - END
