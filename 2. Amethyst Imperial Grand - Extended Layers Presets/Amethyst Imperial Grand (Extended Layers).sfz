@@ -1,0 +1,1946 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The piano samples and the Cakewalk SFZ presets are created by MBMS (https://mbms.ml)
+// Project's webpage: https://mbms.ml/soundfonts/aig
+
+// This soundfont is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+// You can find the LICENSE.md file in the root of this directorty.
+// For special use cases please contact MBMS (https://mbms.ml/contact)
+
+// Please make backups of the SFZ files before editing them.
+
+// Soundfont version: 1.3.1
+// Presets version (SFZ): 3.1
+
+// This particular SFZ preset was created by KaleidonKep99/bribi for his Steinway B-211 project. For more info please read ReadMe.txt found in this folder.
+// The settings have been adjusted for the Amethyst Imperial Grand soundfont.
+
+// End of comments
+
+<control>
+set_cc14=127
+set_cc64=0
+label_cc14=Piano volume
+label_cc64=Damper pedal
+
+<group>
+lovel=0 hivel=0
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=1 hivel=1
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=5
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=2 hivel=2
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=8
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=3 hivel=3
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=12
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=4 hivel=4
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=18
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=5 hivel=5
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=25
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=6 hivel=6
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=32
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=7 hivel=7
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=38
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=8 hivel=8
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=45
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=9 hivel=9
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=50
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=10 hivel=10
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=55
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=11 hivel=11
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=60
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=12 hivel=12
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=64
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=13 hivel=13
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=68
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=14 hivel=14
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=75
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=15 hivel=15
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=80
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=16 hivel=16
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=85
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=17 hivel=17
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=93
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=18 hivel=18
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=100
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=19 hivel=19
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=110
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=20 hivel=20
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=120
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=21 hivel=21
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=133
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=22 hivel=22
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=152
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=23 hivel=23
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=162
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=24 hivel=24
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=175
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=25 hivel=25
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=185
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=26 hivel=26
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=200
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=27 hivel=27
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=215
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=28 hivel=28
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=225
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=29 hivel=29
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=235
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=30 hivel=30
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=245
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=31 hivel=31
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=260
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=32 hivel=32
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=280
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=33 hivel=33
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=300
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=34 hivel=34
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=318
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=35 hivel=35
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=330
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=36 hivel=36
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=346
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=37 hivel=37
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=390
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=38 hivel=38
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=450
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=39 hivel=39
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=500
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=40 hivel=40
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=580
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=41 hivel=41
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=660
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=42 hivel=42
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=720
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=43 hivel=43
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=780
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=44 hivel=44
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=850
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=45 hivel=45
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=940
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=46 hivel=46
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=47 hivel=47
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1070
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=48 hivel=48
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1150
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=49 hivel=49
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1240
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=50 hivel=50
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1360
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=51 hivel=51
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1400
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=52 hivel=52
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1430
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=53 hivel=53
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1470
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=54 hivel=54
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1600
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=55 hivel=55
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1680
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=56 hivel=56
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1780
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=57 hivel=57
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1880
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=58 hivel=58
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=1990
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=59 hivel=59
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2070
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=60 hivel=60
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2180
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=61 hivel=61
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2400
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=62 hivel=62
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2750
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=63 hivel=63
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=2950
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=64 hivel=64
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3090
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=65 hivel=65
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3180
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=66 hivel=66
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3300
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=67 hivel=67
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3500
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=68 hivel=68
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3700
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=69 hivel=69
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=3900
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=70 hivel=70
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=4150
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=71 hivel=71
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=4480
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=72 hivel=72
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=4700
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=73 hivel=73
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=5100
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=74 hivel=74
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=5600
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=75 hivel=75
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=6100
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=76 hivel=76
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=6700
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=77 hivel=77
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=7350
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=78 hivel=78
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=7500
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=79 hivel=79
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=7800
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=80 hivel=80
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=8100
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=81 hivel=81
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=8350
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=82 hivel=82
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=8660
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=83 hivel=83
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=9100
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=84 hivel=84
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=9500
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=85 hivel=85
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=9800
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=86 hivel=86
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=10110
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=87 hivel=87
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=10400
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=88 hivel=88
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=10780
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=89 hivel=89
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=11000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=90 hivel=90
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=11400
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=91 hivel=91
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=12100
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=92 hivel=92
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=12500
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=93 hivel=93
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=13000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=94 hivel=94
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=13400
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=95 hivel=95
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=13800
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=96 hivel=96
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=14100
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=97 hivel=97
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=14380
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=98 hivel=98
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=14600
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=99 hivel=99
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=15000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=100 hivel=100
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=15300
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=101 hivel=101
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=15600
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=102 hivel=102
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=16000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=103 hivel=103
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=16450
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=104 hivel=104
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=16800
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=105 hivel=105
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=17400
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=106 hivel=106
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=18000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=107 hivel=107
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=18300
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=108 hivel=108
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=18600
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=109 hivel=109
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=19600
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=110 hivel=110
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=20000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=111 hivel=111
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=22000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=112 hivel=112
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=24000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=113 hivel=113
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=26000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=114 hivel=114
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=30000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=115 hivel=115
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=40000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=116 hivel=116
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=50000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=117 hivel=117
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=60000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=118 hivel=118
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=67000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=119 hivel=119
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=80000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=120 hivel=120
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=87000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=121 hivel=121
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=95000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=122 hivel=122
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=100000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=123 hivel=123
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=110000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=124 hivel=124
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=120000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=125 hivel=125
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=130000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=126 hivel=126
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=140000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+
+<group>
+lovel=127 hivel=127
+ampeg_release=1.5
+amplfo_delay=1
+fillfo_delay=1
+amplfo_freq=0.500195
+fillfo_freq=0.500195
+amplfo_depth=-0.8
+pitchlfo_freq=5.00104
+loop_mode=no_loop
+fil_type=lpf_2p
+cutoff=200000
+
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"

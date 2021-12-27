@@ -1,0 +1,5421 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The piano samples and the Cakewalk SFZ presets are created by MBMS (https://mbms.ml)
+// Project's webpage: https://mbms.ml/soundfonts/aig
+
+// This soundfont is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+// You can find the LICENSE.md file in the root of this directorty.
+// For special use cases please contact MBMS (https://mbms.ml/contact)
+
+// Please make backups of the SFZ files before editing them.
+
+// Soundfont version: 1.3.1
+// Presets version (SFZ): 3.1
+
+// End of comments
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=114 hivel=127
+ampeg_release=1.5
+cutoff=16000
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lokey=0 hikey=127
+lovel=108 hivel=113
+cutoff=6971
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=102 hivel=107
+cutoff=6371
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=96 hivel=101
+cutoff=5775
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=90 hivel=95
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=84 hivel=89
+cutoff=4581
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=78 hivel=83
+cutoff=3983
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=72 hivel=77
+cutoff=3384
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=66 hivel=71
+cutoff=2787
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=60 hivel=65
+cutoff=2191
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=54 hivel=59
+cutoff=1792
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=48 hivel=53
+cutoff=1394
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=42 hivel=47
+cutoff=996
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=36 hivel=41
+cutoff=796
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=30 hivel=35
+cutoff=697
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=24 hivel=29
+cutoff=597
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=18 hivel=23
+cutoff=498
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=12 hivel=17
+cutoff=398
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=6 hivel=11
+cutoff=299
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=0 hivel=5
+cutoff=100
+ampeg_release=1.5
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+// XP80 CONFIG - START
+
+<group>
+lokey=40 hikey=127
+ampeg_attack=0.5
+ampeg_release=4.99909
+transpose=-12
+loop_mode=loop_continuous
+volume=-0.397
+fil_type=lpf_2p
+cutoff=19913
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/rev_clicker(L).wav
+pitch_keycenter=60
+loop_start=4104
+loop_end=39899
+pan=0
+ampeg_attack=0.001
+ampeg_decay=15.6075
+ampeg_sustain=9.33254
+offset=0
+end=40157
+
+<region>
+sample=../.Samples/XP-80/rev_panfl.wav
+pitch_keycenter=60
+loop_start=0
+loop_end=29151
+pan=100
+offset=0
+end=29159
+
+<region>
+sample=../.Samples/XP-80/rev_panfl.wav
+pitch_keycenter=60
+loop_start=0
+loop_end=29151
+pan=-100
+ampeg_delay=0.00999787
+offset=0
+end=29159
+
+<group>
+lokey=57 hikey=127
+ampeg_attack=1
+ampeg_release=4.99909
+volume=-4.367
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=19913
+pitchlfo_depth=10
+pitchlfo_freq=5.00104
+amplfo_freq=8.176
+fillfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/strings.wav
+pitch_keycenter=60
+loop_start=3101
+loop_end=54443
+pan=100
+ampeg_delay=0.0250046
+offset=0
+end=54675
+volume=-4.367
+
+<region>
+sample=../.Samples/XP-80/strings.wav
+pitch_keycenter=60
+loop_start=3101
+loop_end=54443
+pan=-100
+tune=7
+offset=0
+end=54675
+volume=-4.367
+
+<group>
+lokey=0 hikey=127
+lovel=114 hivel=127
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=19913
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=102 hivel=107
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=6374
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=90 hivel=95
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5178
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=78 hivel=83
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=3983
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=66 hivel=71
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=2789
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=54 hivel=59
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=1793
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=42 hivel=47
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=996
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=30 hivel=35
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=697
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=18 hivel=23
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=498
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=6 hivel=11
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=299
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=108 hivel=113
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=6971
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=96 hivel=101
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=5775
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=84 hivel=89
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=4581
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=72 hivel=77
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=3386
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=60 hivel=65
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=2191
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=48 hivel=53
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=1395
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=36 hivel=41
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=797
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=24 hivel=29
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=598
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=12 hivel=17
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=398
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+<group>
+lokey=0 hikey=127
+lovel=0 hivel=5
+effect1=67
+loop_mode=loop_continuous
+fil_type=lpf_2p
+cutoff=100
+ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+
+<region>
+sample=../.Samples/XP-80/DMPVK-01.wav
+lokey=0 hikey=32
+pitch_keycenter=28
+loop_start=82950
+loop_end=105559
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105559
+
+<region>
+sample=../.Samples/XP-80/DMPVK-02.wav
+lokey=33 hikey=39
+pitch_keycenter=37
+loop_start=79291
+loop_end=105242
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=105242
+
+<region>
+sample=../.Samples/XP-80/DMPVK-04.wav
+lokey=40 hikey=46
+pitch_keycenter=44
+loop_start=65269
+loop_end=83572
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=83572
+
+<region>
+sample=../.Samples/XP-80/DMPVK-03.wav
+lokey=47 hikey=51
+pitch_keycenter=49
+loop_start=72541
+loop_end=99908
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=99908
+
+<region>
+sample=../.Samples/XP-80/DMPVK-06.wav
+lokey=52 hikey=55
+pitch_keycenter=53
+loop_start=61648
+loop_end=79560
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=79560
+
+<region>
+sample=../.Samples/XP-80/DMPVK-05.wav
+lokey=56 hikey=60
+pitch_keycenter=58
+loop_start=53439
+loop_end=66494
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=66494
+
+<region>
+sample=../.Samples/XP-80/DMPVK-07.wav
+lokey=61 hikey=66
+pitch_keycenter=64
+loop_start=40932
+loop_end=57521
+ampeg_decay=101.593
+ampeg_sustain=0.001
+ampeg_release=1.24977
+offset=0
+end=57521
+
+<region>
+sample=../.Samples/XP-80/DMPVK-10.wav
+lokey=67 hikey=72
+pitch_keycenter=70
+loop_start=51601
+loop_end=66830
+ampeg_decay=49.9818
+ampeg_sustain=0.001
+ampeg_release=1.99884
+offset=0
+end=66830
+
+<region>
+sample=../.Samples/XP-80/DMPVK-09.wav
+lokey=73 hikey=75
+pitch_keycenter=74
+loop_start=35004
+loop_end=47843
+ampeg_decay=29.9953
+ampeg_sustain=0.001
+ampeg_release=2.99834
+offset=0
+end=47843
+
+<region>
+sample=../.Samples/XP-80/DMPVK-08.wav
+lokey=76 hikey=79
+pitch_keycenter=78
+loop_start=37092
+loop_end=48703
+ampeg_decay=14.9977
+ampeg_sustain=0.001
+ampeg_release=3.99769
+offset=0
+end=48703
+
+<region>
+sample=../.Samples/XP-80/DMPVK-12.wav
+lokey=80 hikey=84
+pitch_keycenter=82
+loop_start=38938
+loop_end=54964
+ampeg_decay=9.99818
+ampeg_sustain=0.001
+ampeg_release=4.99909
+offset=0
+end=54964
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=85 hikey=100
+pitch_keycenter=88
+loop_start=18965
+loop_end=26899
+ampeg_decay=6.99666
+ampeg_sustain=0.001
+ampeg_release=6.99666
+offset=0
+end=26899
+
+<region>
+sample=../.Samples/XP-80/DMPVK-11.wav
+lokey=101 hikey=127
+pitch_keycenter=88
+ampeg_decay=1.49917
+ampeg_sustain=0.001
+ampeg_release=4.9962
+offset=0
+end=26899
+loop_start=18965
+loop_end=26899
+
+// XP80 CONFIG - END

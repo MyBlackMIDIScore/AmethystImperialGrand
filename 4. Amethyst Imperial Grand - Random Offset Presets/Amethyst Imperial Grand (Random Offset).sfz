@@ -1,0 +1,3276 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The piano samples and the Cakewalk SFZ presets are created by MBMS (https://mbms.ml)
+// Project's webpage: https://mbms.ml/soundfonts/aig
+
+// This soundfont is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+// You can find the LICENSE.md file in the root of this directorty.
+// For special use cases please contact MBMS (https://mbms.ml/contact)
+
+// Please make backups of the SFZ files before editing them.
+
+// Soundfont version: 1.3.1
+// Presets version (SFZ): 3.1
+
+// End of comments
+
+// LAYER 1 - Start
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=114 hivel=127
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=16000
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+// LAYER 1 - End
+
+// LAYER 2 - Start
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=108 hivel=113
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6971
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 2 - End
+
+// LAYER 3 - Start
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=102 hivel=107
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=6371
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 3 - End
+
+// LAYER 4 - Start
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=96 hivel=101
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5775
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 4 - End
+
+// LAYER 5 - Start
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=90 hivel=95
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=5178
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 5 - End
+
+// LAYER 6 - Start
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=84 hivel=89
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=4581
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 6 - End
+
+// LAYER 7 - Start
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=78 hivel=83
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3983
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 7 - End
+
+// LAYER 8 - Start
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=72 hivel=77
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=3384
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 8 - End
+
+// LAYER 9 - Start
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=66 hivel=71
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2787
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 9 - End
+
+// LAYER 10 - Start
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=60 hivel=65
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=2191
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 10 - End
+
+// LAYER 11 - Start
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=54 hivel=59
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1792
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 11 - End
+
+// LAYER 12 - Start
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=48 hivel=53
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=1394
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 12 - End
+
+// LAYER 13 - Start
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=42 hivel=47
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=996
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 13 - End
+
+// LAYER 14 - Start
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=36 hivel=41
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=796
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 14 - End
+
+// LAYER 15 - Start
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=30 hivel=35
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=697
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 15 - End
+
+// LAYER 16 - Start
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=24 hivel=29
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=597
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 16 - End
+
+// LAYER 17 - Start
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=18 hivel=23
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=498
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 17 - End
+
+// LAYER 18 - Start
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=12 hivel=17
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=398
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 18 - End
+
+// LAYER 19 - Start
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=6 hivel=11
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=299
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 19 - End
+
+// LAYER 20 - Start
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.0 hirand=0.1
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=0
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.1 hirand=0.2
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=10
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.2 hirand=0.3
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=20
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.3 hirand=0.4
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=30
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.4 hirand=0.5
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=40
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.5 hirand=0.6
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=50
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.6 hirand=0.7
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=60
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.7 hirand=0.8
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=70
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.8 hirand=0.9
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=80
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+<group>
+lovel=0 hivel=5
+loop_mode=no_loop
+lorand=0.9 hirand=1.0
+ampeg_release=1.5
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=100
+offset=90
+
+//KB CONFIG - START
+#include ".ExtensionFiles/KeyboardConfigPanned.ext"
+//KB CONFIG - END
+
+// LAYER 20 - End

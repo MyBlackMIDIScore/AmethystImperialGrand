@@ -1,0 +1,115 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The piano samples and the Cakewalk SFZ presets are created by MBMS (https://mbms.ml)
+// Project's webpage: https://mbms.ml/soundfonts/aig
+
+// This soundfont is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+// You can find the LICENSE.md file in the root of this directorty.
+// For special use cases please contact MBMS (https://mbms.ml/contact)
+
+// Please make backups of the SFZ files before editing them.
+
+// Soundfont version: 1.3.1
+// Presets version (SFZ): 3.1
+
+// End of comments
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+ampeg_release=4
+cutoff=16000
+
+<region> sample=../.Samples/Piano/AIG_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.Samples/Piano/AIG_022.flac key=22
+<region> sample=../.Samples/Piano/AIG_023.flac key=23
+<region> sample=../.Samples/Piano/AIG_024.flac key=24
+<region> sample=../.Samples/Piano/AIG_025.flac key=25
+<region> sample=../.Samples/Piano/AIG_026.flac key=26
+<region> sample=../.Samples/Piano/AIG_027.flac key=27
+<region> sample=../.Samples/Piano/AIG_028.flac key=28
+<region> sample=../.Samples/Piano/AIG_029.flac key=29
+<region> sample=../.Samples/Piano/AIG_030.flac key=30
+<region> sample=../.Samples/Piano/AIG_031.flac key=31
+<region> sample=../.Samples/Piano/AIG_032.flac key=32 
+<region> sample=../.Samples/Piano/AIG_033.flac key=33
+<region> sample=../.Samples/Piano/AIG_034.flac key=34
+<region> sample=../.Samples/Piano/AIG_035.flac key=35
+<region> sample=../.Samples/Piano/AIG_036.flac key=36
+<region> sample=../.Samples/Piano/AIG_037.flac key=37
+<region> sample=../.Samples/Piano/AIG_038.flac key=38
+<region> sample=../.Samples/Piano/AIG_039.flac key=39
+<region> sample=../.Samples/Piano/AIG_040.flac key=40
+<region> sample=../.Samples/Piano/AIG_041.flac key=41
+<region> sample=../.Samples/Piano/AIG_042.flac key=42
+<region> sample=../.Samples/Piano/AIG_043.flac key=43
+<region> sample=../.Samples/Piano/AIG_044.flac key=44
+<region> sample=../.Samples/Piano/AIG_045.flac key=45
+<region> sample=../.Samples/Piano/AIG_046.flac key=46
+<region> sample=../.Samples/Piano/AIG_047.flac key=47
+<region> sample=../.Samples/Piano/AIG_048.flac key=48
+<region> sample=../.Samples/Piano/AIG_049.flac key=49
+<region> sample=../.Samples/Piano/AIG_050.flac key=50
+<region> sample=../.Samples/Piano/AIG_051.flac key=51
+<region> sample=../.Samples/Piano/AIG_052.flac key=52
+<region> sample=../.Samples/Piano/AIG_053.flac key=53
+<region> sample=../.Samples/Piano/AIG_054.flac key=54
+<region> sample=../.Samples/Piano/AIG_055.flac key=55
+<region> sample=../.Samples/Piano/AIG_056.flac key=56
+<region> sample=../.Samples/Piano/AIG_057.flac key=57
+<region> sample=../.Samples/Piano/AIG_058.flac key=58
+<region> sample=../.Samples/Piano/AIG_059.flac key=59
+<region> sample=../.Samples/Piano/AIG_060.flac key=60
+<region> sample=../.Samples/Piano/AIG_061.flac key=61
+<region> sample=../.Samples/Piano/AIG_062.flac key=62
+<region> sample=../.Samples/Piano/AIG_063.flac key=63
+<region> sample=../.Samples/Piano/AIG_064.flac key=64
+<region> sample=../.Samples/Piano/AIG_065.flac key=65
+<region> sample=../.Samples/Piano/AIG_066.flac key=66
+<region> sample=../.Samples/Piano/AIG_067.flac key=67
+<region> sample=../.Samples/Piano/AIG_068.flac key=68
+<region> sample=../.Samples/Piano/AIG_069.flac key=69
+<region> sample=../.Samples/Piano/AIG_070.flac key=70
+<region> sample=../.Samples/Piano/AIG_071.flac key=71
+<region> sample=../.Samples/Piano/AIG_072.flac key=72
+<region> sample=../.Samples/Piano/AIG_073.flac key=73
+<region> sample=../.Samples/Piano/AIG_074.flac key=74
+<region> sample=../.Samples/Piano/AIG_075.flac key=75
+<region> sample=../.Samples/Piano/AIG_076.flac key=76
+<region> sample=../.Samples/Piano/AIG_077.flac key=77
+<region> sample=../.Samples/Piano/AIG_078.flac key=78
+<region> sample=../.Samples/Piano/AIG_079.flac key=79
+<region> sample=../.Samples/Piano/AIG_080.flac key=80
+<region> sample=../.Samples/Piano/AIG_081.flac key=81
+<region> sample=../.Samples/Piano/AIG_082.flac key=82
+<region> sample=../.Samples/Piano/AIG_083.flac key=83
+<region> sample=../.Samples/Piano/AIG_084.flac key=84
+<region> sample=../.Samples/Piano/AIG_085.flac key=85
+<region> sample=../.Samples/Piano/AIG_086.flac key=86
+<region> sample=../.Samples/Piano/AIG_087.flac key=87
+<region> sample=../.Samples/Piano/AIG_088.flac key=88
+<region> sample=../.Samples/Piano/AIG_089.flac key=89
+<region> sample=../.Samples/Piano/AIG_090.flac key=90
+<region> sample=../.Samples/Piano/AIG_091.flac key=91
+<region> sample=../.Samples/Piano/AIG_092.flac key=92
+<region> sample=../.Samples/Piano/AIG_093.flac key=93
+<region> sample=../.Samples/Piano/AIG_094.flac key=94
+<region> sample=../.Samples/Piano/AIG_095.flac key=95
+<region> sample=../.Samples/Piano/AIG_096.flac key=96
+<region> sample=../.Samples/Piano/AIG_097.flac key=97
+<region> sample=../.Samples/Piano/AIG_098.flac key=98
+<region> sample=../.Samples/Piano/AIG_099.flac key=99
+<region> sample=../.Samples/Piano/AIG_100.flac key=100
+<region> sample=../.Samples/Piano/AIG_101.flac key=101
+<region> sample=../.Samples/Piano/AIG_102.flac key=102
+<region> sample=../.Samples/Piano/AIG_103.flac key=103
+<region> sample=../.Samples/Piano/AIG_104.flac key=104
+<region> sample=../.Samples/Piano/AIG_105.flac key=105
+<region> sample=../.Samples/Piano/AIG_106.flac key=106
+<region> sample=../.Samples/Piano/AIG_107.flac key=107
+<region> sample=../.Samples/Piano/AIG_108.flac lokey=108 hikey=127 pitch_keycenter=108
