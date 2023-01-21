@@ -5,7 +5,7 @@
 
 ## Installation
 
-<a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/archive/refs/tags/2.0.zip"><img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/download_btn.svg" height=80/></a>
+<a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/archive/refs/tags/2.0.zip"><img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/download_btn.svg" height=110/></a>
 
 ## Audio Previews
 
