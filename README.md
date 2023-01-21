@@ -1,4 +1,4 @@
-<h1 align="center">The Amethyst Imperial Grand</h1>
+<p align="center"><img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/aig_logo.svg" height=200/></p>
 
 ## About
 

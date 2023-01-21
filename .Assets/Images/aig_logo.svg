@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="201mm"
+   height="17mm"
+   viewBox="0 0 201 17"
+   version="1.1"
+   id="svg241"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="aig_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview243"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3238075"
+     inkscape:cx="377.32072"
+     inkscape:cy="151.83476"
+     inkscape:window-width="951"
+     inkscape:window-height="486"
+     inkscape:window-x="963"
+     inkscape:window-y="559"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs238">
+    <rect
+       x="31.726667"
+       y="39.280636"
+       width="756.90759"
+       height="135.97144"
+       id="rect416" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.6585948,-10.744237)"
+       id="text414"
+       style="font-size:53.3333px;font-family:'Kayak Sans';-inkscape-font-specification:'Kayak Sans, Normal';text-align:center;white-space:pre;shape-inside:url(#rect416);display:inline;fill:#858585;fill-opacity:1;stroke:#000000;stroke-width:1.51181;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="33.008292"
+         y="88.007508"
+         id="tspan1234"><tspan
+           style="font-family:'Libre Caslon Text';-inkscape-font-specification:'Libre Caslon Text'"
+           id="tspan1232">The Amethyst Imperial Grand</tspan></tspan></text>
+  </g>
+</svg>
