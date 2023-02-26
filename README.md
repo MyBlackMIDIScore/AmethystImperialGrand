@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/aig_logo.svg" height=100/></p>
+<p align="center">
+    <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/aig_logo.svg" height=100/>
+</p>
 
 ## About
 
@@ -7,7 +9,9 @@
 ## Installation
 
 <p align="center">
-<a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/archive/refs/tags/2.0.zip"><img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/download_btn.svg" height=80/></a>
+    <a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/archive/refs/heads/main.zip" download="AmethystImperialGrand-2.0.zip">
+        <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/download_btn.svg" height=80/>
+    </a>
 </p>
 
 1. Download the latest release of the Amethyst Imperial Grand by using the button above.
@@ -17,14 +21,16 @@
     - Make sure to extract all folders, including `.Assets`!
 
 3. Import one of the SFZ files in your SFZ synthesizer of choice.
-    - It is recommended to use [sfizz](https://sfz.tools/sfizz/), although other SFZ compliant synthesizer will work just fine.
+    - It is recommended to use [sfizz](https://sfz.tools/sfizz/downloads), although other SFZ compliant synthesizer will work just fine.
 
 ## Audio Previews
 
 You can listen to the Amethyst Imperial Grand in action here:
 
 <p align="center">
-<a href="https://soundcloud.com/mbms-514737238/sets/amethyst-imperial-grand-13-previews"><img src="https://www.fouroverfour.jukely.com/wp-content/uploads/2017/07/sclogo.png" height=80/></a>
+    <a href="https://soundcloud.com/mbms-514737238/sets/amethyst-imperial-grand-13-previews">
+        <img src="https://www.fouroverfour.jukely.com/wp-content/uploads/2017/07/sclogo.png" height=80/>
+    </a>
 </p>
 
 ## License
