@@ -1,0 +1,36 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Strings Configuration
+
+<region> region_label=StringsKey024 sample=AIG-STR-$CTX-024.flac lokey=0 hikey=25 pitch_keycenter=24 loop_start=$STRLOOP024_S loop_end=$STRLOOP024_E
+<region> region_label=StringsKey028 sample=AIG-STR-$CTX-028.flac lokey=26 hikey=29 pitch_keycenter=28 loop_start=$STRLOOP028_S loop_end=$STRLOOP028_E
+<region> region_label=StringsKey032 sample=AIG-STR-$CTX-032.flac lokey=30 hikey=33 pitch_keycenter=32 loop_start=$STRLOOP032_S loop_end=$STRLOOP032_E
+<region> region_label=StringsKey036 sample=AIG-STR-$CTX-036.flac lokey=34 hikey=37 pitch_keycenter=36 loop_start=$STRLOOP036_S loop_end=$STRLOOP036_E
+<region> region_label=StringsKey040 sample=AIG-STR-$CTX-040.flac lokey=38 hikey=41 pitch_keycenter=40 loop_start=$STRLOOP040_S loop_end=$STRLOOP040_E
+<region> region_label=StringsKey044 sample=AIG-STR-$CTX-044.flac lokey=42 hikey=45 pitch_keycenter=44 loop_start=$STRLOOP044_S loop_end=$STRLOOP044_E
+<region> region_label=StringsKey048 sample=AIG-STR-$CTX-048.flac lokey=46 hikey=49 pitch_keycenter=48 loop_start=$STRLOOP048_S loop_end=$STRLOOP048_E
+<region> region_label=StringsKey052 sample=AIG-STR-$CTX-052.flac lokey=50 hikey=53 pitch_keycenter=52 loop_start=$STRLOOP052_S loop_end=$STRLOOP052_E
+<region> region_label=StringsKey056 sample=AIG-STR-$CTX-056.flac lokey=54 hikey=57 pitch_keycenter=56 loop_start=$STRLOOP056_S loop_end=$STRLOOP056_E
+<region> region_label=StringsKey060 sample=AIG-STR-$CTX-060.flac lokey=58 hikey=61 pitch_keycenter=60 loop_start=$STRLOOP060_S loop_end=$STRLOOP060_E
+<region> region_label=StringsKey064 sample=AIG-STR-$CTX-064.flac lokey=62 hikey=65 pitch_keycenter=64 loop_start=$STRLOOP064_S loop_end=$STRLOOP064_E
+<region> region_label=StringsKey068 sample=AIG-STR-$CTX-068.flac lokey=66 hikey=69 pitch_keycenter=68 loop_start=$STRLOOP068_S loop_end=$STRLOOP068_E
+<region> region_label=StringsKey072 sample=AIG-STR-$CTX-072.flac lokey=70 hikey=73 pitch_keycenter=72 loop_start=$STRLOOP072_S loop_end=$STRLOOP072_E
+<region> region_label=StringsKey076 sample=AIG-STR-$CTX-076.flac lokey=74 hikey=77 pitch_keycenter=76 loop_start=$STRLOOP076_S loop_end=$STRLOOP076_E
+<region> region_label=StringsKey080 sample=AIG-STR-$CTX-080.flac lokey=78 hikey=81 pitch_keycenter=80 loop_start=$STRLOOP080_S loop_end=$STRLOOP080_E
+<region> region_label=StringsKey084 sample=AIG-STR-$CTX-084.flac lokey=82 hikey=85 pitch_keycenter=84 loop_start=$STRLOOP084_S loop_end=$STRLOOP084_E
+<region> region_label=StringsKey088 sample=AIG-STR-$CTX-088.flac lokey=86 hikey=89 pitch_keycenter=88 loop_start=$STRLOOP088_S loop_end=$STRLOOP088_E
+<region> region_label=StringsKey092 sample=AIG-STR-$CTX-092.flac lokey=90 hikey=93 pitch_keycenter=92 loop_start=$STRLOOP092_S loop_end=$STRLOOP092_E
+<region> region_label=StringsKey096 sample=AIG-STR-$CTX-096.flac lokey=94 hikey=127 pitch_keycenter=96 loop_start=$STRLOOP096_S loop_end=$STRLOOP096_E

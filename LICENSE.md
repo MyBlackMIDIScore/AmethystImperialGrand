@@ -1,5 +1,6 @@
-Certain components of the **Amethyst Imperial Grand** are licensed under different licenses.
-In this file you can find exactly the license of each component and file as well as each license in markdown format.
+Certain components of the **Amethyst Imperial Grand** have different licenses.
+
+In this file you can find exactly the license of each component / file as well as all licenses in markdown format.
 
 
 
@@ -9,6 +10,7 @@ In this file you can find exactly the license of each component and file as well
 ## Samples
 
 Audio samples, found in the `.Assets/Samples` folder, are licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0).
+
 They contain the Studio and Imperial Hall variants of Piano and Strings, as well as the Wood samples.
 
 ### Piano & Wood
@@ -18,6 +20,7 @@ All piano and wood samples, found in the `.Assets/Samples/Piano` and `.Assets/Sa
 ### Strings
 
 All strings samples found in the `.Assets/Samples/Strings` folder are based on the [VS Chamber Orchestra: Community Edition Sample Pack](https://vis.versilstudios.com/vsco-community.html) which is licensed under the Creative Commons 0 license.
+
 This project uses a modified variant of said samples which is licensed under CC BY-ND 4.0.
 
 

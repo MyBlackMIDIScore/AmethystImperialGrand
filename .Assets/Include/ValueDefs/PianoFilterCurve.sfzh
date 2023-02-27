@@ -1,0 +1,144 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Group Filter Value Definitions
+
+#define $FIL001 325
+#define $FIL002 325
+#define $FIL003 325
+#define $FIL004 325
+#define $FIL005 325
+#define $FIL006 325
+#define $FIL007 325
+#define $FIL008 326
+#define $FIL009 326
+#define $FIL010 327
+#define $FIL011 328
+#define $FIL012 329
+#define $FIL013 330
+#define $FIL014 332
+#define $FIL015 334
+#define $FIL016 336
+#define $FIL017 338
+#define $FIL018 340
+#define $FIL019 343
+#define $FIL020 347
+#define $FIL021 350
+#define $FIL022 354
+#define $FIL023 359
+#define $FIL024 364
+#define $FIL025 370
+#define $FIL026 376
+#define $FIL027 382
+#define $FIL028 389
+#define $FIL029 397
+#define $FIL030 406
+#define $FIL031 415
+#define $FIL032 424
+#define $FIL033 435
+#define $FIL034 446
+#define $FIL035 458
+#define $FIL036 471
+#define $FIL037 485
+#define $FIL038 500
+#define $FIL039 516
+#define $FIL040 532
+#define $FIL041 550
+#define $FIL042 569
+#define $FIL043 589
+#define $FIL044 610
+#define $FIL045 632
+#define $FIL046 656
+#define $FIL047 681
+#define $FIL048 707
+#define $FIL049 734
+#define $FIL050 763
+#define $FIL051 794
+#define $FIL052 826
+#define $FIL053 859
+#define $FIL054 894
+#define $FIL055 931
+#define $FIL056 969
+#define $FIL057 1010
+#define $FIL058 1052
+#define $FIL059 1096
+#define $FIL060 1142
+#define $FIL061 1190
+#define $FIL062 1240
+#define $FIL063 1292
+#define $FIL064 1346
+#define $FIL065 1403
+#define $FIL066 1462
+#define $FIL067 1524
+#define $FIL068 1588
+#define $FIL069 1654
+#define $FIL070 1723
+#define $FIL071 1795
+#define $FIL072 1870
+#define $FIL073 1948
+#define $FIL074 2029
+#define $FIL075 2112
+#define $FIL076 2199
+#define $FIL077 2290
+#define $FIL078 2383
+#define $FIL079 2481
+#define $FIL080 2581
+#define $FIL081 2686
+#define $FIL082 2794
+#define $FIL083 2907
+#define $FIL084 3023
+#define $FIL085 3144
+#define $FIL086 3270
+#define $FIL087 3399
+#define $FIL088 3534
+#define $FIL089 3673
+#define $FIL090 3818
+#define $FIL091 3968
+#define $FIL092 4123
+#define $FIL093 4284
+#define $FIL094 4451
+#define $FIL095 4624
+#define $FIL096 4803
+#define $FIL097 4989
+#define $FIL098 5182
+#define $FIL099 5382
+#define $FIL100 5590
+#define $FIL101 5806
+#define $FIL102 6030
+#define $FIL103 6263
+#define $FIL104 6505
+#define $FIL105 6756
+#define $FIL106 7019
+#define $FIL107 7291
+#define $FIL108 7576
+#define $FIL109 7873
+#define $FIL110 8183
+#define $FIL111 8507
+#define $FIL112 8846
+#define $FIL113 9202
+#define $FIL114 9577
+#define $FIL115 9970
+#define $FIL116 10386
+#define $FIL117 10827
+#define $FIL118 11295
+#define $FIL119 11795
+#define $FIL120 12332
+#define $FIL121 12913
+#define $FIL122 13549
+#define $FIL123 14254
+#define $FIL124 15056
+#define $FIL125 16002
+#define $FIL126 17219
+#define $FIL127 20000

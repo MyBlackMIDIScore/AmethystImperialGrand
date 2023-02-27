@@ -1,0 +1,36 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Damper Pedal Configuration
+
+<control>
+default_path=../.Assets/Samples/Wood/
+
+<master>
+master_label=DamperPedal
+locc$CCPED_VOL=1
+amplitude_oncc$CCPED_VOL=100
+
+<group> loop_mode=one_shot hikey=-1 cutoff=160
+
+<region>
+region_label=DamperPedalOn
+on_locc64=127 on_hicc64=127 volume=-31 sample=DamperPedal.wav
+
+<region>
+region_label=DamperPedalOff
+on_locc64=0 on_hicc64=0 volume=-25 sample=DamperPedal.wav
+
+

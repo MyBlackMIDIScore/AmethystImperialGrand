@@ -1,0 +1,144 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Group Attack Value Definitions
+
+#define $ATC001 0.082
+#define $ATC002 0.073
+#define $ATC003 0.067
+#define $ATC004 0.063
+#define $ATC005 0.06
+#define $ATC006 0.057
+#define $ATC007 0.055
+#define $ATC008 0.053
+#define $ATC009 0.051
+#define $ATC010 0.049
+#define $ATC011 0.048
+#define $ATC012 0.046
+#define $ATC013 0.045
+#define $ATC014 0.044
+#define $ATC015 0.042
+#define $ATC016 0.041
+#define $ATC017 0.04
+#define $ATC018 0.039
+#define $ATC019 0.038
+#define $ATC020 0.037
+#define $ATC021 0.037
+#define $ATC022 0.036
+#define $ATC023 0.035
+#define $ATC024 0.034
+#define $ATC025 0.033
+#define $ATC026 0.033
+#define $ATC027 0.032
+#define $ATC028 0.031
+#define $ATC029 0.031
+#define $ATC030 0.03
+#define $ATC031 0.029
+#define $ATC032 0.029
+#define $ATC033 0.028
+#define $ATC034 0.028
+#define $ATC035 0.027
+#define $ATC036 0.026
+#define $ATC037 0.026
+#define $ATC038 0.025
+#define $ATC039 0.025
+#define $ATC040 0.024
+#define $ATC041 0.024
+#define $ATC042 0.023
+#define $ATC043 0.023
+#define $ATC044 0.023
+#define $ATC045 0.022
+#define $ATC046 0.022
+#define $ATC047 0.021
+#define $ATC048 0.021
+#define $ATC049 0.02
+#define $ATC050 0.02
+#define $ATC051 0.02
+#define $ATC052 0.019
+#define $ATC053 0.019
+#define $ATC054 0.018
+#define $ATC055 0.018
+#define $ATC056 0.018
+#define $ATC057 0.017
+#define $ATC058 0.017
+#define $ATC059 0.017
+#define $ATC060 0.016
+#define $ATC061 0.016
+#define $ATC062 0.016
+#define $ATC063 0.015
+#define $ATC064 0.015
+#define $ATC065 0.015
+#define $ATC066 0.014
+#define $ATC067 0.014
+#define $ATC068 0.014
+#define $ATC069 0.013
+#define $ATC070 0.013
+#define $ATC071 0.013
+#define $ATC072 0.012
+#define $ATC073 0.012
+#define $ATC074 0.012
+#define $ATC075 0.012
+#define $ATC076 0.011
+#define $ATC077 0.011
+#define $ATC078 0.011
+#define $ATC079 0.01
+#define $ATC080 0.01
+#define $ATC081 0.01
+#define $ATC082 0.01
+#define $ATC083 0.009
+#define $ATC084 0.009
+#define $ATC085 0.009
+#define $ATC086 0.009
+#define $ATC087 0.008
+#define $ATC088 0.008
+#define $ATC089 0.008
+#define $ATC090 0.008
+#define $ATC091 0.007
+#define $ATC092 0.007
+#define $ATC093 0.007
+#define $ATC094 0.007
+#define $ATC095 0.006
+#define $ATC096 0.006
+#define $ATC097 0.006
+#define $ATC098 0.006
+#define $ATC099 0.006
+#define $ATC100 0.005
+#define $ATC101 0.005
+#define $ATC102 0.005
+#define $ATC103 0.005
+#define $ATC104 0.004
+#define $ATC105 0.004
+#define $ATC106 0.004
+#define $ATC107 0.004
+#define $ATC108 0.004
+#define $ATC109 0.003
+#define $ATC110 0.003
+#define $ATC111 0.003
+#define $ATC112 0.003
+#define $ATC113 0.003
+#define $ATC114 0.002
+#define $ATC115 0.002
+#define $ATC116 0.002
+#define $ATC117 0.002
+#define $ATC118 0.002
+#define $ATC119 0.001
+#define $ATC120 0.001
+#define $ATC121 0.001
+#define $ATC122 0.001
+#define $ATC123 0.001
+#define $ATC124 0.001
+#define $ATC125 0.001
+#define $ATC126 0.001
+#define $ATC127 0.001

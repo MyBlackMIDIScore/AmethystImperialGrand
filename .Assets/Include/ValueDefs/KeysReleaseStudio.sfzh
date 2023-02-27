@@ -1,0 +1,105 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Release Value Definitions for the Studio Configuration
+
+#define $REL021 0.8
+#define $REL022 0.8
+#define $REL023 0.801
+#define $REL024 0.803
+#define $REL025 0.804
+#define $REL026 0.805
+#define $REL027 0.807
+#define $REL028 0.809
+#define $REL029 0.811
+#define $REL030 0.813
+#define $REL031 0.816
+#define $REL032 0.818
+#define $REL033 0.82
+#define $REL034 0.823
+#define $REL035 0.826
+#define $REL036 0.829
+#define $REL037 0.831
+#define $REL038 0.834
+#define $REL039 0.838
+#define $REL040 0.841
+#define $REL041 0.844
+#define $REL042 0.847
+#define $REL043 0.851
+#define $REL044 0.854
+#define $REL045 0.858
+#define $REL046 0.861
+#define $REL047 0.865
+#define $REL048 0.869
+#define $REL049 0.873
+#define $REL050 0.877
+#define $REL051 0.881
+#define $REL052 0.885
+#define $REL053 0.889
+#define $REL054 0.893
+#define $REL055 0.897
+#define $REL056 0.902
+#define $REL057 0.906
+#define $REL058 0.911
+#define $REL059 0.915
+#define $REL060 0.92
+#define $REL061 0.924
+#define $REL062 0.929
+#define $REL063 0.934
+#define $REL064 0.938
+#define $REL065 0.943
+#define $REL066 0.948
+#define $REL067 0.953
+#define $REL068 0.958
+#define $REL069 0.963
+#define $REL070 0.968
+#define $REL071 0.974
+#define $REL072 0.979
+#define $REL073 0.984
+#define $REL074 0.989
+#define $REL075 0.995
+#define $REL076 1.0
+#define $REL077 1.006
+#define $REL078 1.011
+#define $REL079 1.017
+#define $REL080 1.023
+#define $REL081 1.028
+#define $REL082 1.034
+#define $REL083 1.04
+#define $REL084 1.046
+#define $REL085 1.051
+#define $REL086 1.057
+#define $REL087 1.063
+#define $REL088 1.069
+#define $REL089 1.075
+#define $REL090 1.081
+#define $REL091 1.088
+#define $REL092 1.094
+#define $REL093 9.8
+#define $REL094 9.8
+#define $REL095 9.8
+#define $REL096 9.8
+#define $REL097 9.8
+#define $REL098 9.8
+#define $REL099 9.8
+#define $REL100 9.8
+#define $REL101 9.8
+#define $REL102 9.8
+#define $REL103 9.8
+#define $REL104 9.8
+#define $REL105 9.8
+#define $REL106 9.8
+#define $REL107 9.8
+#define $REL108 9.8

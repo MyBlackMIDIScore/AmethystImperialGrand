@@ -4,12 +4,16 @@
 
 ## About
 
+The Amethyst Imperial Grand is a free digitally modeled piano library providing a rich "imperial" sound.
+With the use of high quality lossless FLAC samples and dynamic filtering, this library aims to produce a realistic yet powerful tone while keeping a logically small size.
+There are two types of presets to choose from: the Studio presets which include a dry and clean sound of the piano, as well as the Imperial Hall presets which place the piano in a large royal room providing a pleasant reverberant sound.
+For each type you can also find string accompaniment presets which will also generate a string ensemble sound with each note.
+The library is written in the SFZ format which makes it easy to modify and tweak to your liking and use with any synthesizer of your choice.
 
-
-## Installation
+## Usage Instructions
 
 <p align="center">
-    <a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/archive/refs/heads/main.zip" download="AmethystImperialGrand-2.0.zip">
+    <a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/archive/refs/tags/2.0.zip">
         <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/download_btn.svg" height=80/>
     </a>
 </p>
@@ -28,7 +32,7 @@
 You can listen to the Amethyst Imperial Grand in action here:
 
 <p align="center">
-    <a href="https://soundcloud.com/mbms-514737238/sets/amethyst-imperial-grand-13-previews">
+    <a href="https://soundcloud.com/mbms-514737238/sets/aig2">
         <img src="https://www.fouroverfour.jukely.com/wp-content/uploads/2017/07/sclogo.png" height=80/>
     </a>
 </p>
