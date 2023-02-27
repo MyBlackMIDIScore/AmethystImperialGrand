@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/aig_logo.svg" height=100/>
+    <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/main/.Assets/Images/aig_logo.svg" height=100/>
 </p>
 
 ## About
@@ -14,7 +14,7 @@ This library is written in the SFZ format which makes it easy to modify and twea
 
 <p align="center">
     <a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/archive/refs/tags/2.0.zip">
-        <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/download_btn.svg" height=80/>
+        <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/main/.Assets/Images/download_btn.svg" height=80/>
     </a>
 </p>
 
