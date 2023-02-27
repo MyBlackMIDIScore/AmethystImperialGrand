@@ -1,0 +1,105 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Pan Value Definitions
+
+#define $PAN021 -34
+#define $PAN022 -34
+#define $PAN023 -34
+#define $PAN024 -33
+#define $PAN025 -33
+#define $PAN026 -33
+#define $PAN027 -33
+#define $PAN028 -32
+#define $PAN029 -32
+#define $PAN030 -31
+#define $PAN031 -31
+#define $PAN032 -31
+#define $PAN033 -30
+#define $PAN034 -30
+#define $PAN035 -29
+#define $PAN036 -28
+#define $PAN037 -28
+#define $PAN038 -27
+#define $PAN039 -27
+#define $PAN040 -26
+#define $PAN041 -25
+#define $PAN042 -24
+#define $PAN043 -24
+#define $PAN044 -23
+#define $PAN045 -22
+#define $PAN046 -21
+#define $PAN047 -21
+#define $PAN048 -20
+#define $PAN049 -19
+#define $PAN050 -18
+#define $PAN051 -17
+#define $PAN052 -16
+#define $PAN053 -15
+#define $PAN054 -14
+#define $PAN055 -13
+#define $PAN056 -13
+#define $PAN057 -12
+#define $PAN058 -11
+#define $PAN059 -10
+#define $PAN060 -9
+#define $PAN061 -8
+#define $PAN062 -7
+#define $PAN063 -6
+#define $PAN064 -5
+#define $PAN065 -4
+#define $PAN066 -3
+#define $PAN067 -2
+#define $PAN068 -1
+#define $PAN069 0
+#define $PAN070 0
+#define $PAN071 1
+#define $PAN072 2
+#define $PAN073 2
+#define $PAN074 3
+#define $PAN075 4
+#define $PAN076 5
+#define $PAN077 6
+#define $PAN078 7
+#define $PAN079 8
+#define $PAN080 9
+#define $PAN081 9
+#define $PAN082 10
+#define $PAN083 11
+#define $PAN084 12
+#define $PAN085 12
+#define $PAN086 13
+#define $PAN087 14
+#define $PAN088 15
+#define $PAN089 15
+#define $PAN090 16
+#define $PAN091 16
+#define $PAN092 17
+#define $PAN093 18
+#define $PAN094 18
+#define $PAN095 19
+#define $PAN096 19
+#define $PAN097 20
+#define $PAN098 20
+#define $PAN099 20
+#define $PAN100 21
+#define $PAN101 21
+#define $PAN102 21
+#define $PAN103 22
+#define $PAN104 22
+#define $PAN105 22
+#define $PAN106 22
+#define $PAN107 22
+#define $PAN108 22

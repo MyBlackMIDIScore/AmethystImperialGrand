@@ -1,0 +1,105 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Keyboard Configuration
+
+<region> region_label=PianoKey021 sample=AIG-$CTX-021.flac lokey=0 hikey=21 pitch_keycenter=21 pan=$PAN021 ampeg_release=$REL021
+<region> region_label=PianoKey022 sample=AIG-$CTX-022.flac key=22 pan=$PAN022 ampeg_release=$REL022
+<region> region_label=PianoKey023 sample=AIG-$CTX-023.flac key=23 pan=$PAN023 ampeg_release=$REL023
+<region> region_label=PianoKey024 sample=AIG-$CTX-024.flac key=24 pan=$PAN024 ampeg_release=$REL024
+<region> region_label=PianoKey025 sample=AIG-$CTX-025.flac key=25 pan=$PAN025 ampeg_release=$REL025
+<region> region_label=PianoKey026 sample=AIG-$CTX-026.flac key=26 pan=$PAN026 ampeg_release=$REL026
+<region> region_label=PianoKey027 sample=AIG-$CTX-027.flac key=27 pan=$PAN027 ampeg_release=$REL027
+<region> region_label=PianoKey028 sample=AIG-$CTX-028.flac key=28 pan=$PAN028 ampeg_release=$REL028
+<region> region_label=PianoKey029 sample=AIG-$CTX-029.flac key=29 pan=$PAN029 ampeg_release=$REL029
+<region> region_label=PianoKey030 sample=AIG-$CTX-030.flac key=30 pan=$PAN030 ampeg_release=$REL030
+<region> region_label=PianoKey031 sample=AIG-$CTX-031.flac key=31 pan=$PAN031 ampeg_release=$REL031
+<region> region_label=PianoKey032 sample=AIG-$CTX-032.flac key=32 pan=$PAN032 ampeg_release=$REL032
+<region> region_label=PianoKey033 sample=AIG-$CTX-033.flac key=33 pan=$PAN033 ampeg_release=$REL033
+<region> region_label=PianoKey034 sample=AIG-$CTX-034.flac key=34 pan=$PAN034 ampeg_release=$REL034
+<region> region_label=PianoKey035 sample=AIG-$CTX-035.flac key=35 pan=$PAN035 ampeg_release=$REL035
+<region> region_label=PianoKey036 sample=AIG-$CTX-036.flac key=36 pan=$PAN036 ampeg_release=$REL036
+<region> region_label=PianoKey037 sample=AIG-$CTX-037.flac key=37 pan=$PAN037 ampeg_release=$REL037
+<region> region_label=PianoKey038 sample=AIG-$CTX-038.flac key=38 pan=$PAN038 ampeg_release=$REL038
+<region> region_label=PianoKey039 sample=AIG-$CTX-039.flac key=39 pan=$PAN039 ampeg_release=$REL039
+<region> region_label=PianoKey040 sample=AIG-$CTX-040.flac key=40 pan=$PAN040 ampeg_release=$REL040
+<region> region_label=PianoKey041 sample=AIG-$CTX-041.flac key=41 pan=$PAN041 ampeg_release=$REL041
+<region> region_label=PianoKey042 sample=AIG-$CTX-042.flac key=42 pan=$PAN042 ampeg_release=$REL042
+<region> region_label=PianoKey043 sample=AIG-$CTX-043.flac key=43 pan=$PAN043 ampeg_release=$REL043
+<region> region_label=PianoKey044 sample=AIG-$CTX-044.flac key=44 pan=$PAN044 ampeg_release=$REL044
+<region> region_label=PianoKey045 sample=AIG-$CTX-045.flac key=45 pan=$PAN045 ampeg_release=$REL045
+<region> region_label=PianoKey046 sample=AIG-$CTX-046.flac key=46 pan=$PAN046 ampeg_release=$REL046
+<region> region_label=PianoKey047 sample=AIG-$CTX-047.flac key=47 pan=$PAN047 ampeg_release=$REL047
+<region> region_label=PianoKey048 sample=AIG-$CTX-048.flac key=48 pan=$PAN048 ampeg_release=$REL048
+<region> region_label=PianoKey049 sample=AIG-$CTX-049.flac key=49 pan=$PAN049 ampeg_release=$REL049
+<region> region_label=PianoKey050 sample=AIG-$CTX-050.flac key=50 pan=$PAN050 ampeg_release=$REL050
+<region> region_label=PianoKey051 sample=AIG-$CTX-051.flac key=51 pan=$PAN051 ampeg_release=$REL051
+<region> region_label=PianoKey052 sample=AIG-$CTX-052.flac key=52 pan=$PAN052 ampeg_release=$REL052
+<region> region_label=PianoKey053 sample=AIG-$CTX-053.flac key=53 pan=$PAN053 ampeg_release=$REL053
+<region> region_label=PianoKey054 sample=AIG-$CTX-054.flac key=54 pan=$PAN054 ampeg_release=$REL054
+<region> region_label=PianoKey055 sample=AIG-$CTX-055.flac key=55 pan=$PAN055 ampeg_release=$REL055
+<region> region_label=PianoKey056 sample=AIG-$CTX-056.flac key=56 pan=$PAN056 ampeg_release=$REL056
+<region> region_label=PianoKey057 sample=AIG-$CTX-057.flac key=57 pan=$PAN057 ampeg_release=$REL057
+<region> region_label=PianoKey058 sample=AIG-$CTX-058.flac key=58 pan=$PAN058 ampeg_release=$REL058
+<region> region_label=PianoKey059 sample=AIG-$CTX-059.flac key=59 pan=$PAN059 ampeg_release=$REL059
+<region> region_label=PianoKey060 sample=AIG-$CTX-060.flac key=60 pan=$PAN060 ampeg_release=$REL060
+<region> region_label=PianoKey061 sample=AIG-$CTX-061.flac key=61 pan=$PAN061 ampeg_release=$REL061
+<region> region_label=PianoKey062 sample=AIG-$CTX-062.flac key=62 pan=$PAN062 ampeg_release=$REL062
+<region> region_label=PianoKey063 sample=AIG-$CTX-063.flac key=63 pan=$PAN063 ampeg_release=$REL063
+<region> region_label=PianoKey064 sample=AIG-$CTX-064.flac key=64 pan=$PAN064 ampeg_release=$REL064
+<region> region_label=PianoKey065 sample=AIG-$CTX-065.flac key=65 pan=$PAN065 ampeg_release=$REL065
+<region> region_label=PianoKey066 sample=AIG-$CTX-066.flac key=66 pan=$PAN066 ampeg_release=$REL066
+<region> region_label=PianoKey067 sample=AIG-$CTX-067.flac key=67 pan=$PAN067 ampeg_release=$REL067
+<region> region_label=PianoKey068 sample=AIG-$CTX-068.flac key=68 pan=$PAN068 ampeg_release=$REL068
+<region> region_label=PianoKey069 sample=AIG-$CTX-069.flac key=69 pan=$PAN069 ampeg_release=$REL069
+<region> region_label=PianoKey070 sample=AIG-$CTX-070.flac key=70 pan=$PAN070 ampeg_release=$REL070
+<region> region_label=PianoKey071 sample=AIG-$CTX-071.flac key=71 pan=$PAN071 ampeg_release=$REL071
+<region> region_label=PianoKey072 sample=AIG-$CTX-072.flac key=72 pan=$PAN072 ampeg_release=$REL072
+<region> region_label=PianoKey073 sample=AIG-$CTX-073.flac key=73 pan=$PAN073 ampeg_release=$REL073
+<region> region_label=PianoKey074 sample=AIG-$CTX-074.flac key=74 pan=$PAN074 ampeg_release=$REL074
+<region> region_label=PianoKey075 sample=AIG-$CTX-075.flac key=75 pan=$PAN075 ampeg_release=$REL075
+<region> region_label=PianoKey076 sample=AIG-$CTX-076.flac key=76 pan=$PAN076 ampeg_release=$REL076
+<region> region_label=PianoKey077 sample=AIG-$CTX-077.flac key=77 pan=$PAN077 ampeg_release=$REL077
+<region> region_label=PianoKey078 sample=AIG-$CTX-078.flac key=78 pan=$PAN078 ampeg_release=$REL078
+<region> region_label=PianoKey079 sample=AIG-$CTX-079.flac key=79 pan=$PAN079 ampeg_release=$REL079
+<region> region_label=PianoKey080 sample=AIG-$CTX-080.flac key=80 pan=$PAN080 ampeg_release=$REL080
+<region> region_label=PianoKey081 sample=AIG-$CTX-081.flac key=81 pan=$PAN081 ampeg_release=$REL081
+<region> region_label=PianoKey082 sample=AIG-$CTX-082.flac key=82 pan=$PAN082 ampeg_release=$REL082
+<region> region_label=PianoKey083 sample=AIG-$CTX-083.flac key=83 pan=$PAN083 ampeg_release=$REL083
+<region> region_label=PianoKey084 sample=AIG-$CTX-084.flac key=84 pan=$PAN084 ampeg_release=$REL084
+<region> region_label=PianoKey085 sample=AIG-$CTX-085.flac key=85 pan=$PAN085 ampeg_release=$REL085
+<region> region_label=PianoKey086 sample=AIG-$CTX-086.flac key=86 pan=$PAN086 ampeg_release=$REL086
+<region> region_label=PianoKey087 sample=AIG-$CTX-087.flac key=87 pan=$PAN087 ampeg_release=$REL087
+<region> region_label=PianoKey088 sample=AIG-$CTX-088.flac key=88 pan=$PAN088 ampeg_release=$REL088
+<region> region_label=PianoKey089 sample=AIG-$CTX-089.flac key=89 pan=$PAN089 ampeg_release=$REL089
+<region> region_label=PianoKey090 sample=AIG-$CTX-090.flac key=90 pan=$PAN090 ampeg_release=$REL090
+<region> region_label=PianoKey091 sample=AIG-$CTX-091.flac key=91 pan=$PAN091 ampeg_release=$REL091
+<region> region_label=PianoKey092 sample=AIG-$CTX-092.flac key=92 pan=$PAN092 ampeg_release=$REL092
+<region> region_label=PianoKey093 sample=AIG-$CTX-093.flac key=93 pan=$PAN093 ampeg_release=$REL093
+<region> region_label=PianoKey094 sample=AIG-$CTX-094.flac key=94 pan=$PAN094 ampeg_release=$REL094
+<region> region_label=PianoKey095 sample=AIG-$CTX-095.flac key=95 pan=$PAN095 ampeg_release=$REL095
+<region> region_label=PianoKey096 sample=AIG-$CTX-096.flac key=96 pan=$PAN096 ampeg_release=$REL096
+<region> region_label=PianoKey097 sample=AIG-$CTX-097.flac key=97 pan=$PAN097 ampeg_release=$REL097
+<region> region_label=PianoKey098 sample=AIG-$CTX-098.flac key=98 pan=$PAN098 ampeg_release=$REL098
+<region> region_label=PianoKey099 sample=AIG-$CTX-099.flac key=99 pan=$PAN099 ampeg_release=$REL099
+<region> region_label=PianoKey100 sample=AIG-$CTX-100.flac key=100 pan=$PAN100 ampeg_release=$REL100
+<region> region_label=PianoKey101 sample=AIG-$CTX-101.flac key=101 pan=$PAN101 ampeg_release=$REL101
+<region> region_label=PianoKey102 sample=AIG-$CTX-102.flac key=102 pan=$PAN102 ampeg_release=$REL102
+<region> region_label=PianoKey103 sample=AIG-$CTX-103.flac key=103 pan=$PAN103 ampeg_release=$REL103
+<region> region_label=PianoKey104 sample=AIG-$CTX-104.flac key=104 pan=$PAN104 ampeg_release=$REL104
+<region> region_label=PianoKey105 sample=AIG-$CTX-105.flac key=105 pan=$PAN105 ampeg_release=$REL105
+<region> region_label=PianoKey106 sample=AIG-$CTX-106.flac key=106 pan=$PAN106 ampeg_release=$REL106
+<region> region_label=PianoKey107 sample=AIG-$CTX-107.flac key=107 pan=$PAN107 ampeg_release=$REL107
+<region> region_label=PianoKey108 sample=AIG-$CTX-108.flac lokey=108 hikey=127 pitch_keycenter=108 pan=$PAN108 ampeg_release=$REL108

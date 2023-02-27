@@ -1,0 +1,89 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Piano SFZ Instrument Configuration
+
+
+// *********************
+// MIDI CC Definitions
+
+#define $CCVOLUME 7
+#define $CCPAN 10
+#define $CCSUSTAIN 64
+#define $CCRELEASE 72
+#define $CCPED_VOL 85
+
+
+// *********************
+// Value Definitions
+
+#include "../.Assets/Include/ValueDefs/KeysPanCurve.sfzh"
+#include "../.Assets/Include/ValueDefs/PianoAttackCurve.sfzh"
+#include "../.Assets/Include/ValueDefs/PianoFilterCurve.sfzh"
+
+
+// *********************
+// Global Control
+
+<control>
+label_cc$CCVOLUME=Master.Volume
+label_cc$CCPAN=Master.Pan
+label_cc$CCSUSTAIN=Damper.Pedal
+label_cc$CCRELEASE=Release.Time
+label_cc$CCPED_VOL=Pedal.Volume
+
+set_cc$CCVOLUME=100
+set_cc$CCPAN=64
+set_cc$CCRELEASE=64
+set_cc$CCPED_VOL=50
+
+
+// *********************
+
+<global>
+global_label=AmethystImperialGrand
+amplitude_oncc$CCVOLUME=100
+amplitude_curvecc$CCVOLUME=4
+pan_oncc$CCPAN=100
+pan_curvecc$CCPAN=1
+ampeg_releasecc$CCRELEASE=1
+ampeg_release_curvecc$CCRELEASE=7
+
+
+// *********************
+// Damper Pedal Section
+
+#include "../.Assets/Include/SFZ/DamperPedal.sfzh"
+
+
+// *********************
+// Piano Section
+
+<control>
+default_path=../.Assets/Samples/Piano/$CDIR/
+
+<master>
+master_label=Piano
+
+loop_mode=no_loop
+ampeg_start=37
+ampeg_decay=8
+ampeg_sustain=85
+
+fil_type=lpf_2p
+fil_keytrack=16
+fil_keycenter=21
+
+#include "../.Assets/Include/SFZ/PianoGroups.sfzh"

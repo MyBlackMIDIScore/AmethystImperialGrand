@@ -1,0 +1,22 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ instrument file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// This SFZ instrument file has been optimized to be used in
+// SFZ specification compliant synthesizers, such as sfizz and Sforzando.
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// *********************
+
+#include "Amethyst Imperial Grand - Studio.sfz"
+#include "../.Assets/Include/SFZ/MainStrings.sfzh"

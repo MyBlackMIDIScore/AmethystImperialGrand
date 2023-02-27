@@ -1,0 +1,398 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Filter Groups Configuration
+
+<group> group=1 group_label=PianoLayer001 lovel=1 hivel=1 cutoff=$FIL001 ampeg_attack=$ATC001
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=2 group_label=PianoLayer002 lovel=2 hivel=2 cutoff=$FIL002 ampeg_attack=$ATC002
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=3 group_label=PianoLayer003 lovel=3 hivel=3 cutoff=$FIL003 ampeg_attack=$ATC003
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=4 group_label=PianoLayer004 lovel=4 hivel=4 cutoff=$FIL004 ampeg_attack=$ATC004
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=5 group_label=PianoLayer005 lovel=5 hivel=5 cutoff=$FIL005 ampeg_attack=$ATC005
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=6 group_label=PianoLayer006 lovel=6 hivel=6 cutoff=$FIL006 ampeg_attack=$ATC006
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=7 group_label=PianoLayer007 lovel=7 hivel=7 cutoff=$FIL007 ampeg_attack=$ATC007
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=8 group_label=PianoLayer008 lovel=8 hivel=8 cutoff=$FIL008 ampeg_attack=$ATC008
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=9 group_label=PianoLayer009 lovel=9 hivel=9 cutoff=$FIL009 ampeg_attack=$ATC009
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=10 group_label=PianoLayer010 lovel=10 hivel=10 cutoff=$FIL010 ampeg_attack=$ATC010
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=11 group_label=PianoLayer011 lovel=11 hivel=11 cutoff=$FIL011 ampeg_attack=$ATC011
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=12 group_label=PianoLayer012 lovel=12 hivel=12 cutoff=$FIL012 ampeg_attack=$ATC012
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=13 group_label=PianoLayer013 lovel=13 hivel=13 cutoff=$FIL013 ampeg_attack=$ATC013
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=14 group_label=PianoLayer014 lovel=14 hivel=14 cutoff=$FIL014 ampeg_attack=$ATC014
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=15 group_label=PianoLayer015 lovel=15 hivel=15 cutoff=$FIL015 ampeg_attack=$ATC015
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=16 group_label=PianoLayer016 lovel=16 hivel=16 cutoff=$FIL016 ampeg_attack=$ATC016
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=17 group_label=PianoLayer017 lovel=17 hivel=17 cutoff=$FIL017 ampeg_attack=$ATC017
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=18 group_label=PianoLayer018 lovel=18 hivel=18 cutoff=$FIL018 ampeg_attack=$ATC018
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=19 group_label=PianoLayer019 lovel=19 hivel=19 cutoff=$FIL019 ampeg_attack=$ATC019
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=20 group_label=PianoLayer020 lovel=20 hivel=20 cutoff=$FIL020 ampeg_attack=$ATC020
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=21 group_label=PianoLayer021 lovel=21 hivel=21 cutoff=$FIL021 ampeg_attack=$ATC021
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=22 group_label=PianoLayer022 lovel=22 hivel=22 cutoff=$FIL022 ampeg_attack=$ATC022
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=23 group_label=PianoLayer023 lovel=23 hivel=23 cutoff=$FIL023 ampeg_attack=$ATC023
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=24 group_label=PianoLayer024 lovel=24 hivel=24 cutoff=$FIL024 ampeg_attack=$ATC024
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=25 group_label=PianoLayer025 lovel=25 hivel=25 cutoff=$FIL025 ampeg_attack=$ATC025
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=26 group_label=PianoLayer026 lovel=26 hivel=26 cutoff=$FIL026 ampeg_attack=$ATC026
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=27 group_label=PianoLayer027 lovel=27 hivel=27 cutoff=$FIL027 ampeg_attack=$ATC027
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=28 group_label=PianoLayer028 lovel=28 hivel=28 cutoff=$FIL028 ampeg_attack=$ATC028
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=29 group_label=PianoLayer029 lovel=29 hivel=29 cutoff=$FIL029 ampeg_attack=$ATC029
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=30 group_label=PianoLayer030 lovel=30 hivel=30 cutoff=$FIL030 ampeg_attack=$ATC030
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=31 group_label=PianoLayer031 lovel=31 hivel=31 cutoff=$FIL031 ampeg_attack=$ATC031
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=32 group_label=PianoLayer032 lovel=32 hivel=32 cutoff=$FIL032 ampeg_attack=$ATC032
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=33 group_label=PianoLayer033 lovel=33 hivel=33 cutoff=$FIL033 ampeg_attack=$ATC033
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=34 group_label=PianoLayer034 lovel=34 hivel=34 cutoff=$FIL034 ampeg_attack=$ATC034
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=35 group_label=PianoLayer035 lovel=35 hivel=35 cutoff=$FIL035 ampeg_attack=$ATC035
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=36 group_label=PianoLayer036 lovel=36 hivel=36 cutoff=$FIL036 ampeg_attack=$ATC036
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=37 group_label=PianoLayer037 lovel=37 hivel=37 cutoff=$FIL037 ampeg_attack=$ATC037
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=38 group_label=PianoLayer038 lovel=38 hivel=38 cutoff=$FIL038 ampeg_attack=$ATC038
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=39 group_label=PianoLayer039 lovel=39 hivel=39 cutoff=$FIL039 ampeg_attack=$ATC039
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=40 group_label=PianoLayer040 lovel=40 hivel=40 cutoff=$FIL040 ampeg_attack=$ATC040
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=41 group_label=PianoLayer041 lovel=41 hivel=41 cutoff=$FIL041 ampeg_attack=$ATC041
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=42 group_label=PianoLayer042 lovel=42 hivel=42 cutoff=$FIL042 ampeg_attack=$ATC042
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=43 group_label=PianoLayer043 lovel=43 hivel=43 cutoff=$FIL043 ampeg_attack=$ATC043
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=44 group_label=PianoLayer044 lovel=44 hivel=44 cutoff=$FIL044 ampeg_attack=$ATC044
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=45 group_label=PianoLayer045 lovel=45 hivel=45 cutoff=$FIL045 ampeg_attack=$ATC045
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=46 group_label=PianoLayer046 lovel=46 hivel=46 cutoff=$FIL046 ampeg_attack=$ATC046
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=47 group_label=PianoLayer047 lovel=47 hivel=47 cutoff=$FIL047 ampeg_attack=$ATC047
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=48 group_label=PianoLayer048 lovel=48 hivel=48 cutoff=$FIL048 ampeg_attack=$ATC048
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=49 group_label=PianoLayer049 lovel=49 hivel=49 cutoff=$FIL049 ampeg_attack=$ATC049
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=50 group_label=PianoLayer050 lovel=50 hivel=50 cutoff=$FIL050 ampeg_attack=$ATC050
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=51 group_label=PianoLayer051 lovel=51 hivel=51 cutoff=$FIL051 ampeg_attack=$ATC051
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=52 group_label=PianoLayer052 lovel=52 hivel=52 cutoff=$FIL052 ampeg_attack=$ATC052
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=53 group_label=PianoLayer053 lovel=53 hivel=53 cutoff=$FIL053 ampeg_attack=$ATC053
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=54 group_label=PianoLayer054 lovel=54 hivel=54 cutoff=$FIL054 ampeg_attack=$ATC054
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=55 group_label=PianoLayer055 lovel=55 hivel=55 cutoff=$FIL055 ampeg_attack=$ATC055
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=56 group_label=PianoLayer056 lovel=56 hivel=56 cutoff=$FIL056 ampeg_attack=$ATC056
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=57 group_label=PianoLayer057 lovel=57 hivel=57 cutoff=$FIL057 ampeg_attack=$ATC057
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=58 group_label=PianoLayer058 lovel=58 hivel=58 cutoff=$FIL058 ampeg_attack=$ATC058
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=59 group_label=PianoLayer059 lovel=59 hivel=59 cutoff=$FIL059 ampeg_attack=$ATC059
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=60 group_label=PianoLayer060 lovel=60 hivel=60 cutoff=$FIL060 ampeg_attack=$ATC060
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=61 group_label=PianoLayer061 lovel=61 hivel=61 cutoff=$FIL061 ampeg_attack=$ATC061
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=62 group_label=PianoLayer062 lovel=62 hivel=62 cutoff=$FIL062 ampeg_attack=$ATC062
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=63 group_label=PianoLayer063 lovel=63 hivel=63 cutoff=$FIL063 ampeg_attack=$ATC063
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=64 group_label=PianoLayer064 lovel=64 hivel=64 cutoff=$FIL064 ampeg_attack=$ATC064
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=65 group_label=PianoLayer065 lovel=65 hivel=65 cutoff=$FIL065 ampeg_attack=$ATC065
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=66 group_label=PianoLayer066 lovel=66 hivel=66 cutoff=$FIL066 ampeg_attack=$ATC066
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=67 group_label=PianoLayer067 lovel=67 hivel=67 cutoff=$FIL067 ampeg_attack=$ATC067
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=68 group_label=PianoLayer068 lovel=68 hivel=68 cutoff=$FIL068 ampeg_attack=$ATC068
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=69 group_label=PianoLayer069 lovel=69 hivel=69 cutoff=$FIL069 ampeg_attack=$ATC069
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=70 group_label=PianoLayer070 lovel=70 hivel=70 cutoff=$FIL070 ampeg_attack=$ATC070
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=71 group_label=PianoLayer071 lovel=71 hivel=71 cutoff=$FIL071 ampeg_attack=$ATC071
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=72 group_label=PianoLayer072 lovel=72 hivel=72 cutoff=$FIL072 ampeg_attack=$ATC072
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=73 group_label=PianoLayer073 lovel=73 hivel=73 cutoff=$FIL073 ampeg_attack=$ATC073
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=74 group_label=PianoLayer074 lovel=74 hivel=74 cutoff=$FIL074 ampeg_attack=$ATC074
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=75 group_label=PianoLayer075 lovel=75 hivel=75 cutoff=$FIL075 ampeg_attack=$ATC075
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=76 group_label=PianoLayer076 lovel=76 hivel=76 cutoff=$FIL076 ampeg_attack=$ATC076
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=77 group_label=PianoLayer077 lovel=77 hivel=77 cutoff=$FIL077 ampeg_attack=$ATC077
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=78 group_label=PianoLayer078 lovel=78 hivel=78 cutoff=$FIL078 ampeg_attack=$ATC078
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=79 group_label=PianoLayer079 lovel=79 hivel=79 cutoff=$FIL079 ampeg_attack=$ATC079
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=80 group_label=PianoLayer080 lovel=80 hivel=80 cutoff=$FIL080 ampeg_attack=$ATC080
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=81 group_label=PianoLayer081 lovel=81 hivel=81 cutoff=$FIL081 ampeg_attack=$ATC081
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=82 group_label=PianoLayer082 lovel=82 hivel=82 cutoff=$FIL082 ampeg_attack=$ATC082
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=83 group_label=PianoLayer083 lovel=83 hivel=83 cutoff=$FIL083 ampeg_attack=$ATC083
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=84 group_label=PianoLayer084 lovel=84 hivel=84 cutoff=$FIL084 ampeg_attack=$ATC084
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=85 group_label=PianoLayer085 lovel=85 hivel=85 cutoff=$FIL085 ampeg_attack=$ATC085
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=86 group_label=PianoLayer086 lovel=86 hivel=86 cutoff=$FIL086 ampeg_attack=$ATC086
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=87 group_label=PianoLayer087 lovel=87 hivel=87 cutoff=$FIL087 ampeg_attack=$ATC087
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=88 group_label=PianoLayer088 lovel=88 hivel=88 cutoff=$FIL088 ampeg_attack=$ATC088
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=89 group_label=PianoLayer089 lovel=89 hivel=89 cutoff=$FIL089 ampeg_attack=$ATC089
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=90 group_label=PianoLayer090 lovel=90 hivel=90 cutoff=$FIL090 ampeg_attack=$ATC090
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=91 group_label=PianoLayer091 lovel=91 hivel=91 cutoff=$FIL091 ampeg_attack=$ATC091
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=92 group_label=PianoLayer092 lovel=92 hivel=92 cutoff=$FIL092 ampeg_attack=$ATC092
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=93 group_label=PianoLayer093 lovel=93 hivel=93 cutoff=$FIL093 ampeg_attack=$ATC093
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=94 group_label=PianoLayer094 lovel=94 hivel=94 cutoff=$FIL094 ampeg_attack=$ATC094
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=95 group_label=PianoLayer095 lovel=95 hivel=95 cutoff=$FIL095 ampeg_attack=$ATC095
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=96 group_label=PianoLayer096 lovel=96 hivel=96 cutoff=$FIL096 ampeg_attack=$ATC096
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=97 group_label=PianoLayer097 lovel=97 hivel=97 cutoff=$FIL097 ampeg_attack=$ATC097
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=98 group_label=PianoLayer098 lovel=98 hivel=98 cutoff=$FIL098 ampeg_attack=$ATC098
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=99 group_label=PianoLayer099 lovel=99 hivel=99 cutoff=$FIL099 ampeg_attack=$ATC099
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=100 group_label=PianoLayer100 lovel=100 hivel=100 cutoff=$FIL100 ampeg_attack=$ATC100
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=101 group_label=PianoLayer101 lovel=101 hivel=101 cutoff=$FIL101 ampeg_attack=$ATC101
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=102 group_label=PianoLayer102 lovel=102 hivel=102 cutoff=$FIL102 ampeg_attack=$ATC102
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=103 group_label=PianoLayer103 lovel=103 hivel=103 cutoff=$FIL103 ampeg_attack=$ATC103
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=104 group_label=PianoLayer104 lovel=104 hivel=104 cutoff=$FIL104 ampeg_attack=$ATC104
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=105 group_label=PianoLayer105 lovel=105 hivel=105 cutoff=$FIL105 ampeg_attack=$ATC105
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=106 group_label=PianoLayer106 lovel=106 hivel=106 cutoff=$FIL106 ampeg_attack=$ATC106
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=107 group_label=PianoLayer107 lovel=107 hivel=107 cutoff=$FIL107 ampeg_attack=$ATC107
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=108 group_label=PianoLayer108 lovel=108 hivel=108 cutoff=$FIL108 ampeg_attack=$ATC108
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=109 group_label=PianoLayer109 lovel=109 hivel=109 cutoff=$FIL109 ampeg_attack=$ATC109
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=110 group_label=PianoLayer110 lovel=110 hivel=110 cutoff=$FIL110 ampeg_attack=$ATC110
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=111 group_label=PianoLayer111 lovel=111 hivel=111 cutoff=$FIL111 ampeg_attack=$ATC111
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=112 group_label=PianoLayer112 lovel=112 hivel=112 cutoff=$FIL112 ampeg_attack=$ATC112
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=113 group_label=PianoLayer113 lovel=113 hivel=113 cutoff=$FIL113 ampeg_attack=$ATC113
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=114 group_label=PianoLayer114 lovel=114 hivel=114 cutoff=$FIL114 ampeg_attack=$ATC114
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=115 group_label=PianoLayer115 lovel=115 hivel=115 cutoff=$FIL115 ampeg_attack=$ATC115
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=116 group_label=PianoLayer116 lovel=116 hivel=116 cutoff=$FIL116 ampeg_attack=$ATC116
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=117 group_label=PianoLayer117 lovel=117 hivel=117 cutoff=$FIL117 ampeg_attack=$ATC117
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=118 group_label=PianoLayer118 lovel=118 hivel=118 cutoff=$FIL118 ampeg_attack=$ATC118
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=119 group_label=PianoLayer119 lovel=119 hivel=119 cutoff=$FIL119 ampeg_attack=$ATC119
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=120 group_label=PianoLayer120 lovel=120 hivel=120 cutoff=$FIL120 ampeg_attack=$ATC120
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=121 group_label=PianoLayer121 lovel=121 hivel=121 cutoff=$FIL121 ampeg_attack=$ATC121
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=122 group_label=PianoLayer122 lovel=122 hivel=122 cutoff=$FIL122 ampeg_attack=$ATC122
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=123 group_label=PianoLayer123 lovel=123 hivel=123 cutoff=$FIL123 ampeg_attack=$ATC123
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=124 group_label=PianoLayer124 lovel=124 hivel=124 cutoff=$FIL124 ampeg_attack=$ATC124
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=125 group_label=PianoLayer125 lovel=125 hivel=125 cutoff=$FIL125 ampeg_attack=$ATC125
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=126 group_label=PianoLayer126 lovel=126 hivel=126 cutoff=$FIL126 ampeg_attack=$ATC126
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+
+<group> group=127 group_label=PianoLayer127 lovel=127 hivel=127 cutoff=$FIL127 ampeg_attack=$ATC127
+#include "../.Assets/Include/SFZ/PianoRegions.sfzh"
+

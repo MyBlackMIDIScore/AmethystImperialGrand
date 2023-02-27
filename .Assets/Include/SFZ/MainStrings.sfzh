@@ -1,0 +1,35 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Strings SFZ Instrument Configuration
+
+
+#define $CCSTR_VOL 86
+
+<control>
+default_path=../.Assets/Samples/Strings/$CDIR/
+label_cc$CCSTR_VOL=Strings.Volume
+set_cc$CCSTR_VOL=127
+
+<master>
+volume=-8
+ampeg_attack=0.3
+ampeg_decay=25
+ampeg_sustain=22
+ampeg_release=$REL064
+loop_mode=loop_continuous
+amplitude_oncc$CCSTR_VOL=100
+
+#include "../.Assets/Include/SFZ/StringsRegions.sfzh"

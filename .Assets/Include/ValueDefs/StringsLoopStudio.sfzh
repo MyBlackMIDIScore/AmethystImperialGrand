@@ -1,0 +1,73 @@
+/////////////////////////////
+// Amethyst Imperial Grand //
+/////////////////////////////
+
+// The samples and the SFZ presets are created by MBMS.
+// Project's webpage: https://github.com/MyBlackMIDIScore/AmethystImperialGrand
+
+// This SFZ extension file is licensed under the GNU General Public License v2.0.
+// More info about this SoundFont's licensing can be found in the LICENSE.md file.
+// For special use cases please contact MBMS (midisendmail@gmail.com).
+
+// Samples version: 2.0
+// SFZ implementation version: 4.0
+
+
+// Strings Loop Configuration for the Studio Configuration
+
+#define $STRLOOP024_S 69328
+#define $STRLOOP024_E 139758
+
+#define $STRLOOP028_S 54820
+#define $STRLOOP028_E 113051
+
+#define $STRLOOP032_S 43095
+#define $STRLOOP032_E 87468
+
+#define $STRLOOP036_S 22133
+#define $STRLOOP036_E 151291
+
+#define $STRLOOP040_S 26799
+#define $STRLOOP040_E 85262
+
+#define $STRLOOP044_S 45638
+#define $STRLOOP044_E 99704
+
+#define $STRLOOP048_S 25225
+#define $STRLOOP048_E 83127
+
+#define $STRLOOP052_S 27430
+#define $STRLOOP052_E 121756
+
+#define $STRLOOP056_S 54325
+#define $STRLOOP056_E 118221
+
+#define $STRLOOP060_S 6946
+#define $STRLOOP060_E 105858
+
+#define $STRLOOP064_S 23411
+#define $STRLOOP064_E 111591
+
+#define $STRLOOP068_S 37279
+#define $STRLOOP068_E 94081
+
+#define $STRLOOP072_S 38921
+#define $STRLOOP072_E 109510
+
+#define $STRLOOP076_S 5478
+#define $STRLOOP076_E 76637
+
+#define $STRLOOP080_S 7991
+#define $STRLOOP080_E 90131
+
+#define $STRLOOP084_S 11234
+#define $STRLOOP084_E 71590
+
+#define $STRLOOP088_S 13850
+#define $STRLOOP088_E 73379
+
+#define $STRLOOP092_S 21417
+#define $STRLOOP092_E 75673
+
+#define $STRLOOP096_S 27567
+#define $STRLOOP096_E 86558

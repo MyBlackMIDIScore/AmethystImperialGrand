@@ -1,37 +1,50 @@
-<h1 align="center">Amethyst Imperial Grand</h1>
-
 <p align="center">
-    <a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/releases/"><img src="https://img.shields.io/github/release/MyBlackMIDIScore/AmethystImperialGrand" alt="GitHub release"></a>
-    <a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/License-CC%20BY--ND%204.0-blue" alt="CC BY-ND 4.0"></a>
+    <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/aig_logo.svg" height=100/>
 </p>
 
-## About this soundfont
+## About
 
-The Amethyst Imperial Grand is sampled from the well-known Yamaha C7 Grand Piano. This soundfont is specifically optimized and equalized to be used for Black MIDI playback, but can also work well on other cases (such as live piano playback or piano transcriptions). The soundfont consists of 88 lossless FLAC samples, for the best sound quality possible. There are a total of 20 default dynamic velocity layers for realism, as well as a preset pack with 128 velocity layers (created by Bribi/Kep for his Steinway B-211 soundfont project). You can find a total of 44 SFZ presets, so you can find exactly the sound you are looking for! There are also some interesting addon packs. One of them is a selection of string samples mixed with the piano to give it a “dreamy” or “fantasy” feel, while the other one uses the samples from the infamous XP-80 Super piano soundfont, as well as its fantasy sound pack.
+The Amethyst Imperial Grand is a free digitally modeled piano library providing a rich "imperial" sound.
+With the use of high quality lossless FLAC samples and dynamic filtering, this library aims to produce a realistic yet powerful tone while keeping a small size.
+There are two types of presets to choose from: the Studio presets (dry and clean sound), as well as the Imperial Hall presets (large royal room ambience).
+For each type you can also find strings presets which will generate ensemble sounds with each note played.
+This library is written in the SFZ format which makes it easy to modify and tweak to your liking and use with any synthesizer of your choice.
 
-### Features
+## Usage Instructions
 
-- Samples from a Yamaha C7 Grand Piano
+<p align="center">
+    <a href="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/archive/refs/tags/2.0.zip">
+        <img src="https://github.com/MyBlackMIDIScore/AmethystImperialGrand/raw/2.0-prep/.Assets/Images/download_btn.svg" height=80/>
+    </a>
+</p>
 
-- Mix samples (Strings and XP-80 sounds)
+1. Download the latest release of the Amethyst Imperial Grand by using the button above.
+    - To download an older version, visit the [Releases](https://github.com/MyBlackMIDIScore/AmethystImperialGrand/releases) page.
 
-- Sampled from a Fazioli 9-foot Grand Piano
+2. Extract the contents of the downloaded archive into a folder.
+    - Make sure to extract all folders, including `.Assets`!
 
-- 20 dynamic velocity layers for a realistic experience
+3. Import one of the SFZ files in your SFZ synthesizer of choice.
+    - It is recommended to use [sfizz](https://sfz.tools/sfizz/downloads), although other SFZ compliant synthesizer will work just fine.
 
-- High quality lossless FLAC samples
+## Audio Previews
 
-- Optimized for Black MIDI playback
+You can listen to the Amethyst Imperial Grand in action here:
 
-## Audio previews
-
-You can listen to some previews of this soundfont on SoundCloud: 
-
-<a href="https://soundcloud.com/mbms-514737238/sets/amethyst-imperial-grand-13-previews"><img src="https://www.fouroverfour.jukely.com/wp-content/uploads/2017/07/sclogo.png" height=88/></a>
+<p align="center">
+    <a href="https://soundcloud.com/mbms-514737238/sets/aig2">
+        <img src="https://www.fouroverfour.jukely.com/wp-content/uploads/2017/07/sclogo.png" height=80/>
+    </a>
+</p>
 
 ## License
 
-This soundfont is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license. You can find the LICENSE.md file in the root of this directorty.
-For special use cases please contact MBMS (midisendmail@gmail.com).
+Each component of the Amethyst Imperial Grand is licensed under a different license:
 
-#### ~MBMS
+- **Audio samples (piano, strings, damper pedal):** Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)
+- **SFZ instrument files:** GNU General Public License v2.0 (GPL-2.0)
+- **Documents and images:** Copyright 2023 MBMS - All rights reserved
+
+Detailed information about licensing can be found in the LICENSE.md file.
+
+For special use cases, please contact me (midisendmail@gmail.com).
