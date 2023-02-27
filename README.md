@@ -5,10 +5,10 @@
 ## About
 
 The Amethyst Imperial Grand is a free digitally modeled piano library providing a rich "imperial" sound.
-With the use of high quality lossless FLAC samples and dynamic filtering, this library aims to produce a realistic yet powerful tone while keeping a logically small size.
-There are two types of presets to choose from: the Studio presets which include a dry and clean sound of the piano, as well as the Imperial Hall presets which place the piano in a large royal room providing a pleasant reverberant sound.
-For each type you can also find string accompaniment presets which will also generate a string ensemble sound with each note.
-The library is written in the SFZ format which makes it easy to modify and tweak to your liking and use with any synthesizer of your choice.
+With the use of high quality lossless FLAC samples and dynamic filtering, this library aims to produce a realistic yet powerful tone while keeping a small size.
+There are two types of presets to choose from: the Studio presets (dry and clean sound), as well as the Imperial Hall presets (large royal room ambience).
+For each type you can also find strings presets which will generate ensemble sounds with each note played.
+This library is written in the SFZ format which makes it easy to modify and tweak to your liking and use with any synthesizer of your choice.
 
 ## Usage Instructions
 
@@ -45,6 +45,6 @@ Each component of the Amethyst Imperial Grand is licensed under a different lice
 - **SFZ instrument files:** GNU General Public License v2.0 (GPL-2.0)
 - **Documents and images:** Copyright 2023 MBMS - All rights reserved
 
-For detailed information about licensing, please read the LICENSE.md file.
+Detailed information about licensing can be found in the LICENSE.md file.
 
 For special use cases, please contact me (midisendmail@gmail.com).
